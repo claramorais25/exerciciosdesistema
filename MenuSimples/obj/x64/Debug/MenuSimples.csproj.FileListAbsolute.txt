@@ -1,0 +1,10 @@
+C:\Users\maria.csmorais2\source\Exerciciosdesistemas\MenuSimples\bin\x64\Debug\MenuSimples.exe.config
+C:\Users\maria.csmorais2\source\Exerciciosdesistemas\MenuSimples\bin\x64\Debug\MenuSimples.exe
+C:\Users\maria.csmorais2\source\Exerciciosdesistemas\MenuSimples\bin\x64\Debug\MenuSimples.pdb
+C:\Users\maria.csmorais2\source\Exerciciosdesistemas\MenuSimples\obj\x64\Debug\MenuSimples.csproj.AssemblyReference.cache
+C:\Users\maria.csmorais2\source\Exerciciosdesistemas\MenuSimples\obj\x64\Debug\MenuSimples.Form1.resources
+C:\Users\maria.csmorais2\source\Exerciciosdesistemas\MenuSimples\obj\x64\Debug\MenuSimples.Properties.Resources.resources
+C:\Users\maria.csmorais2\source\Exerciciosdesistemas\MenuSimples\obj\x64\Debug\MenuSimples.csproj.GenerateResource.cache
+C:\Users\maria.csmorais2\source\Exerciciosdesistemas\MenuSimples\obj\x64\Debug\MenuSimples.csproj.CoreCompileInputs.cache
+C:\Users\maria.csmorais2\source\Exerciciosdesistemas\MenuSimples\obj\x64\Debug\MenuSimples.exe
+C:\Users\maria.csmorais2\source\Exerciciosdesistemas\MenuSimples\obj\x64\Debug\MenuSimples.pdb
